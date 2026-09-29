@@ -1,0 +1,3 @@
+nombre_model=clasificador
+version=1
+entorno=desarrollo
