@@ -4,12 +4,15 @@
 
 *Proyecto de practica para la materia Arquitectura de Sistemas de Inteligencia Artificial*
 
+## Estado del proyecto
+Prototipo inicial.
+
 ---
 
 ## Descripcion
 Este proyecto simula el desarrollo inicial de un sistema de IA.
 
-##Objetivo
+## Objetivo
 Simular la creación de un sistema de IA, el cual funcione mediante un modelo de IA y una API.
 
 ## Componentes principales
